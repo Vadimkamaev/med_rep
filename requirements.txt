@@ -1,0 +1,5 @@
+# backend/requirements.txt
+flask==3.0.0
+pandas==2.1.4
+numpy==1.26.0
+python-dotenv==1.0.0
